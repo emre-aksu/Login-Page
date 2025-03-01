@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLayer", "ModelLayer\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{CA18CDB4-2F8A-412F-9B3C-31FB4711C03E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogInPageUI", "LogInPageUI\LogInPageUI.csproj", "{A3580582-D135-4AB7-A4BF-CF1EF5B090E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CA18CDB4-2F8A-412F-9B3C-31FB4711C03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA18CDB4-2F8A-412F-9B3C-31FB4711C03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA18CDB4-2F8A-412F-9B3C-31FB4711C03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3580582-D135-4AB7-A4BF-CF1EF5B090E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3580582-D135-4AB7-A4BF-CF1EF5B090E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3580582-D135-4AB7-A4BF-CF1EF5B090E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3580582-D135-4AB7-A4BF-CF1EF5B090E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
